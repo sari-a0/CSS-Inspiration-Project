@@ -1,0 +1,19 @@
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+body{
+    background-color: black;
+}
+#img{
+   border: 5px solid rgb(215, 152, 152);
+   width: 100%;
+}
+.face{
+    margin-left: 25%;
+    margin-top: 100px;
+    width: 50%;
+    font-family: 'Regular Libre Baskerville';
+    text-align: center;
+    color:antiquewhite
+}
